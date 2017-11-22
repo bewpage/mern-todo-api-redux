@@ -1,0 +1,25 @@
+*{
+    /*font-family: 'Lato', sans-serif;*/
+    font-family: 'Open Sans', sans-serif;
+}
+
+.form-inline{
+    margin: 5%;
+}
+
+.form-control{
+    margin: 5px 0;
+}
+
+.list-item{
+    display: inline-block;
+}
+
+.delete-button{
+    float: right;
+    cursor: pointer;
+}
+
+.delete-button:hover{
+    color: #b4b4b4;
+}
